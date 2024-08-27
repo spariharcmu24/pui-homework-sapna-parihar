@@ -1,5 +1,5 @@
 # PUI homework
 
-Deployed website: `add the URL to your deployed website`
+Deployed website: https://spariharcmu24.github.io/pui-homework-sapna-parihar/
 
 Repository link: `add the URL to this repository`
